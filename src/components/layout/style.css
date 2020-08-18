@@ -1,0 +1,15 @@
+.footer-block{
+  display: flex;
+  justify-content: space-around;
+  padding: 15px 0;
+  background-color: rgb(107, 105, 102);
+  color: white;
+}
+.footer-block a{
+  text-decoration: none;
+  color: white;
+}
+
+.footer-block a:hover{
+  color: rgb(55, 191, 209);
+}
